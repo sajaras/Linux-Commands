@@ -1,1 +1,1 @@
-find <folder path> -type d -exec chmod 777 {} \;
+find <folder path> -type d -exec chmod <codevalue> {} \;
