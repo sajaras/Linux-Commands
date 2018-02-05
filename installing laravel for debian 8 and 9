@@ -1,0 +1,5 @@
+ sudo apt install php-cli git
+follow the 4 instructions under https://getcomposer.org/download/ (to install system wide replace third instruction with  sudo php composer-setup.php --install-dir=/usr/local/bin --filename=composer)
+sudo apt-get install php7.0-xml
+composer create-project --prefer-dist laravel/laravel=<laravel-version> <project-name>
+done
