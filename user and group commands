@@ -1,0 +1,3 @@
+##Adding user to a group
+usermod -a -G <groupname> <username>
+deluser <username> <group>
