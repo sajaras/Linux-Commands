@@ -1,2 +1,0 @@
-example of extracting line from command output.
-apt-cache policy  libgtk-3-0 | head -n 2 | tail -n 1
